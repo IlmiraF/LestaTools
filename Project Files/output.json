@@ -1,0 +1,129 @@
+{"objects":[
+    {
+        "name": "Rail",
+        "properties": [
+            {
+                "description": ":/scale_1200.jpg",
+                "name": 0
+            },
+            {
+                "description": "None",
+                "name": 1
+            },
+            {
+                "description": 2,
+                "name": 2
+            },
+            {
+                "description": 0,
+                "name": 3
+            }
+        ]
+    },
+    {
+        "name": "Gold",
+        "properties": [
+            {
+                "description": ":/scale_1200.jpg",
+                "name": 0
+            },
+            {
+                "description": "None",
+                "name": 1
+            },
+            {
+                "description": 0.0,
+                "name": 2
+            },
+            {
+                "description": 10,
+                "name": 3
+            }
+        ]
+    },
+    {
+        "name": "Wall",
+        "properties": [
+            {
+                "description": ":/scale_1200.jpg",
+                "name": 0
+            },
+            {
+                "description": "Steel",
+                "name": 1
+            },
+            {
+                "description": 0.0,
+                "name": 2
+            },
+            {
+                "description": 0,
+                "name": 3
+            }
+        ]
+    },
+    {
+        "name": "Banana",
+        "properties": [
+            {
+                "description": ":/scale_1200.jpg",
+                "name": 0
+            },
+            {
+                "description": "None",
+                "name": 1
+            },
+            {
+                "description": 0.0,
+                "name": 2
+            },
+            {
+                "description": 83,
+                "name": 3
+            }
+        ]
+    },
+    {
+        "name": "Ladder",
+        "properties": [
+            {
+                "description": ":/scale_1200.jpg",
+                "name": 0
+            },
+            {
+                "description": "None",
+                "name": 1
+            },
+            {
+                "description": 2.5,
+                "name": 2
+            },
+            {
+                "description": 0,
+                "name": 3
+            }
+        ]
+    },
+    {
+        "name": "Player",
+        "properties": [
+            {
+                "description": ":/scale_1200.jpg",
+                "name": 0
+            },
+            {
+                "description": "None",
+                "name": 1
+            },
+            {
+                "description": 0.0,
+                "name": 2
+            },
+            {
+                "description": 0,
+                "name": 3
+            }
+        ]
+    }
+]
+}

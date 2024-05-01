@@ -1,0 +1,108 @@
+{"objects":[
+    {
+        "name": "Apple",
+        "properties": [
+            {
+                "description": ":/scale_1200.jpg",
+                "name": 0
+            },
+            {
+                "description": "None",
+                "name": 1
+            },
+            {
+                "description": 0.0,
+                "name": 2
+            },
+            {
+                "description": 25,
+                "name": 3
+            }
+        ]
+    },
+    {
+        "name": "Coin",
+        "properties": [
+            {
+                "description": ":/scale_1200.jpg",
+                "name": 0
+            },
+            {
+                "description": "Steel",
+                "name": 1
+            },
+            {
+                "description": 0.0,
+                "name": 2
+            },
+            {
+                "description": 100,
+                "name": 3
+            }
+        ]
+    },
+    {
+        "name": "Table",
+        "properties": [
+            {
+                "description": ":/scale_1200.jpg",
+                "name": 0
+            },
+            {
+                "description": "Wood",
+                "name": 1
+            },
+            {
+                "description": 0.0,
+                "name": 2
+            },
+            {
+                "description": 0,
+                "name": 3
+            }
+        ]
+    },
+    {
+        "name": "Chair",
+        "properties": [
+            {
+                "description": ":/scale_1200.jpg",
+                "name": 0
+            },
+            {
+                "description": "Wood",
+                "name": 1
+            },
+            {
+                "description": 0.0,
+                "name": 2
+            },
+            {
+                "description": 0,
+                "name": 3
+            }
+        ]
+    },
+    {
+        "name": "Character",
+        "properties": [
+            {
+                "description": ":/scale_1200.jpg",
+                "name": 0
+            },
+            {
+                "description": "None",
+                "name": 1
+            },
+            {
+                "description": 0.0,
+                "name": 2
+            },
+            {
+                "description": 0,
+                "name": 3
+            }
+        ]
+    }
+]
+}
