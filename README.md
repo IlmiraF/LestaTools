@@ -1,5 +1,7 @@
 # LestaTools
 
+Готовое запускаемое решение : https://github.com/IlmiraF/LestaTools/releases
+
 При открытии программы, доступен минимальный набор типов объектов.
 
 ![Снимок экрана 2024-05-01 150136](https://github.com/IlmiraF/LestaTools/assets/70852983/679fc851-9fad-400a-a778-d3180bdb8ded)
